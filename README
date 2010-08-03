@@ -1,0 +1,23 @@
+README
+JavaToc v0.0.1
+written by Patrick Jennings
+
+--------------------------------------------------------------------------------
+About JavaToc
+
+JavaToc is an interface written in java that can be used to connect to and send
+and receive commands from the AOL TOC server. The interface uses the TOC2
+(Talk to OSCAR 2) protocol developed by AOL. The TOC2 protocol is a wrapper for
+AOL's proprietary OSCAR protocol used for its AIM clients. TOC2 is an ASCII-
+based protocol which makes it much easier to work with compared with its binary
+counterpart, OSCAR.
+
+--------------------------------------------------------------------------------
+Resources
+
+-TOC2 specs:
+	http://terraim.cvs.sourceforge.net/viewvc/terraim/terraim/src/toc/TOC2.txt
+-TOC wiki:
+	http://en.wikipedia.org/wiki/TOC_protocol
+-OSCAR doc:
+	http://code.google.com/p/joscar/wiki/FrontPage
